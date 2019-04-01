@@ -15,6 +15,7 @@ int main(void)
 	}
 	//time(&sec2);
 	//printf("%ld\n",sec2-sec1);
+
 	
 	return 0;
 }
